@@ -1,0 +1,25 @@
+.done::before{
+content:" ";
+display: inline-block;
+vertical-align: middle;
+height: 18px;
+width: 18px;
+margin-right: 5px;
+background: url("//sf3-ttcdn-tos.pstatp.com/obj/ad-tetris-site/file/1537858103949/0643368ca73542bd921a64975f5df176")
+no-repeat center/100%;
+}
+.undo::before{
+content:" ";
+vertical-align: middle;
+display: inline-block;
+height: 18px;
+width: 18px;
+margin-right: 5px;
+background: url("//sf6-ttcdn-tos.pstatp.com/obj/ad-tetris-site/file/1537858118961/fb5c81ed3a220004b71069645f112867")
+no-repeat center/100%;
+}
+.process {
+    padding-top: 18px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #80808033;
+}
